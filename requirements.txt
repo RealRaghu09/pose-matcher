@@ -1,0 +1,8 @@
+absl-py==2.4.0
+cffi==2.0.0
+flatbuffers==25.12.19
+mediapipe==0.10.30
+numpy==2.4.3
+opencv-python==4.13.0.92
+pycparser==3.0
+sounddevice==0.5.5
