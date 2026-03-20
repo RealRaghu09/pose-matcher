@@ -1,8 +1,8 @@
-from MonkeyPoseClassification import MonkeyPoseClassifier
+from PoseClassification import PoseClassifier
 
 
 def main():
-    detector = MonkeyPoseClassifier(model_path="pose.task", webcam_index=0)
+    detector = PoseClassifier(model_path="pose.task", webcam_index=0)
     detector.run()
 
 
