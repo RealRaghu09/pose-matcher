@@ -6,7 +6,7 @@ from pathlib import Path
 import math
 
 
-class MonkeyPoseClassifier:
+class PoseClassifier:
     def __init__(
         self,
         model_path: str | Path = "pose.task",
